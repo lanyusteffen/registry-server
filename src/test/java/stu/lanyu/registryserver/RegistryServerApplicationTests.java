@@ -1,4 +1,4 @@
-package sty.lanyu.registryserver;
+package stu.lanyu.registryserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
